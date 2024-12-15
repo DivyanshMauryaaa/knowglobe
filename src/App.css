@@ -1,0 +1,24 @@
+.main {
+  padding: 10px;
+  font-family: sans-serif;
+}
+
+.FeautredCard {
+  border: 1px solid gray;
+  margin: 5px;
+  padding: 7px;
+  width: 400px;
+  height: 360px;
+  overflow: hidden;
+}
+
+.FcontentCards {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 6px;
+  justify-content: space-between;
+}
+
+.FeautredCard .articleImage {
+  width: 142px;
+}

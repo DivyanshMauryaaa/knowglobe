@@ -1,4 +1,4 @@
-# Knowledge Golbe
+# KnowGlobe - Knowledge of Globe
 
 <b> An App that let's user search & research on topics </b>
 
